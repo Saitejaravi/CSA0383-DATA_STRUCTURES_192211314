@@ -8,6 +8,6 @@ for(i=1;i<=number;i++)
 {
 fact=fact*i;
 }
-printf("the factorial number %d!:%d",number,fact);
+printf("the factorial number %d",fact);
 return 0;
 }
